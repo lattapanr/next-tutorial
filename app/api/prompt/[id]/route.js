@@ -55,5 +55,3 @@ export const DELETE = async (request, { params }) => {
     });
   }
 };
-
-//TODO: fix the "VM7448:1 Uncaught (in promise) SyntaxError: Unexpected token 'I', "Internal S"... is not valid JSON" error. Suspect a typo.
