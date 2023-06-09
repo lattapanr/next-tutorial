@@ -24,7 +24,10 @@ To get started with Next-Promptopia, follow the instructions below:
 2. Install the necessary dependencies using `npm install` or `yarn install`.
 3. Configure the required environment variables in the `.env` file. This file should be placed in the root directory of the project and will be hidden from version control.
 4. Run the application using `npm run dev` or `yarn dev`.
-5. Access the application in your browser at `http://next-promptopia-phi.vercel.app`.
+
+## Demo
+
+Visit the Next-Promptopia demo page [here](http://next-promptopia-phi.vercel.app) to experience the application firsthand.
 
 ## Tutorial Credits
 
